@@ -1,0 +1,6 @@
+* Cyculus Code
+This is the code written for the Cyculus virtual reality mountain biking simulation.
+
+Unfortunately, because assets and other content (such as models of trees and rocks) were purchased to build the Cyculus environment, the full Cyculus software project can not be published legally.
+
+This repository has all of the code written for the game, drivers, and controllers comprising Cyculus, without sharing any data that we do not have the rights to publish in source form. While it cannot be compiled into a executable project in this form, this repository serves to show the majority of the engineering work done on the Cyculus project.
